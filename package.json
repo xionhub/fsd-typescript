@@ -1,6 +1,6 @@
 {
   "name": "@xionhub/fsd-typescript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "feature-sliced-design helper library",
   "repository": {
     "type": "git",
