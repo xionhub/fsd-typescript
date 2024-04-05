@@ -1,0 +1,29 @@
+{
+  "name": "@xionhub/fsd-typescript",
+  "version": "0.0.1",
+  "description": "feature-sliced-design helper library",
+  "main": "./src/tsconfig.fsd.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xionhub/fsd-typescript.git"
+  },
+  "files": [
+    "./src/*"
+  ],
+  "keywords": [
+    "typescript",
+    "feature-sliced-design"
+  ],
+  "author": "XionWCFM",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.4"
+  },
+  "peerDependencies": {
+    "typescript": ">=2.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
