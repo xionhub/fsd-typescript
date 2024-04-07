@@ -6,6 +6,8 @@ This library surprisingly relies on TypeScript and is recommended for use with [
 
 For more information, please refer to the [@xionhub/fsd-prettier](https://github.com/xionhub/fsd-prettier) document.
 
+You can refer to actual example projects applying this library at [@xionhub/fsd-example repository](https://github.com/xionhub/fsd-example).
+
 ## Overview
 
 @xionhub/fsd-typescript helps set up path allias to quickly and easily comply with feature sliced ​​design and leads to close integration with @xionhub/fsd-prettier.
